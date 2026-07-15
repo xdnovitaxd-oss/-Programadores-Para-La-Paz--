@@ -1,0 +1,19 @@
+Automatización simple - n8n y Telegram
+
+Evento: una petición alcanza un número significativo de firmas
+(por ejemplo, 100 apoyos).
+
+Mensaje: "¡Una petición alcanzó 100 firmas! Revisa la plataforma
+para generar el documento formal."
+
+Información que no debe enviarse por seguridad:
+- Nombres completos de quienes firmaron.
+- Números de identificación o documentos.
+- Teléfonos o direcciones.
+- Correos electrónicos.
+- Comentarios sensibles o datos personales de los firmantes.
+
+El mensaje debe limitarse a notificar que ocurrió un evento
+importante (alcanzar cierto número de firmas), motivando a revisar
+la plataforma directamente, sin exponer información privada de los
+ciudadanos por un canal externo como Telegram.

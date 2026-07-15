@@ -1,0 +1,16 @@
+Durante el curso aprendí que la tecnología puede ser una herramienta
+poderosa para fortalecer la participación ciudadana cuando se diseña
+pensando en las necesidades reales de la comunidad y no solo en la
+complejidad técnica. Comprendí que conceptos como rutas, JSON, APIs
+o bases de datos no son un fin en sí mismos, sino medios para que
+los ciudadanos puedan reportar problemas, respaldar causas o hacer
+seguimiento a procesos que les afectan directamente. También aprendí
+que la organización del trabajo, mediante backlog e iteraciones, es
+tan importante como el código, ya que permite avanzar de forma clara
+y priorizada. Además, entendí que la seguridad y la protección de
+datos personales son esenciales para que una comunidad confíe en
+una plataforma, y que la automatización, usada con responsabilidad,
+puede agilizar la coordinación sin reemplazar el criterio humano. En
+conjunto, este curso me mostró que la tecnología con impacto social
+solo funciona cuando se combina con organización, seguridad y una
+comprensión clara del contexto comunitario al que sirve.

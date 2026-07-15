@@ -1,0 +1,23 @@
+Modelo básico de datos
+
+Peticion
+- id: identificador único que distingue a cada petición dentro del sistema.
+- titulo: nombre corto y claro que resume de qué trata la petición.
+- descripcion: texto donde se explica con más detalle el problema o la solicitud.
+- fecha: momento en que la petición fue creada y registrada en el sistema.
+
+Para qué sirve:
+Guarda la información principal de cada petición creada por un
+ciudadano, permitiendo que otros usuarios la conozcan y decidan
+respaldarla.
+
+Firma
+- id: identificador único de cada firma registrada.
+- peticion_id: indica a qué petición pertenece esa firma, conectando ambas entidades.
+- nombre: identifica quién realizó la firma o el apoyo.
+- fecha: momento en que se registró la firma.
+
+Para qué sirve:
+Registra cada apoyo o firma que recibe una petición, permitiendo
+contar cuántas personas la han respaldado y dar seguimiento a la
+participación a lo largo del tiempo.
